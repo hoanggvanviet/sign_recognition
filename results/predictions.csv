@@ -1,0 +1,769 @@
+true_index,true_label,pred_index,pred_label,correct
+28,Con gấu,28,Con gấu,1
+52,Nghe,52,Nghe,1
+97,Đẹp,97,Đẹp,1
+15,Cá,15,Cá,1
+2,Ăn,2,Ăn,1
+1,Áp dụng,1,Áp dụng,1
+95,Đâu,95,Đâu,1
+43,Khai báo,43,Khai báo,1
+98,Đi,98,Đi,1
+61,Nôn ói,61,Nôn ói,1
+74,Thất lạc,9,Bế mạc,0
+96,Đầu,96,Đầu,1
+26,Cho,26,Cho,1
+82,Trưa,82,Trưa,1
+78,Thức ăn,78,Thức ăn,1
+2,Ăn,2,Ăn,1
+94,Xúc động,94,Xúc động,1
+19,Cảm ơn,19,Cảm ơn,1
+78,Thức ăn,78,Thức ăn,1
+83,Trường học,83,Trường học,1
+31,Cứu,31,Cứu,1
+51,Nặng,51,Nặng,1
+2,Ăn,2,Ăn,1
+70,San sẻ,70,San sẻ,1
+60,Nói xấu,60,Nói xấu,1
+62,Ô tô,90,Xe đạp,0
+95,Đâu,95,Đâu,1
+59,Nói,59,Nói,1
+71,Sốt,12,Biết,0
+45,Khóc,45,Khóc,1
+48,Lo lắng,48,Lo lắng,1
+2,Ăn,2,Ăn,1
+83,Trường học,83,Trường học,1
+21,Chân,21,Chân,1
+9,Bế mạc,9,Bế mạc,1
+24,Chậm lại,79,Thức dậy,0
+90,Xe đạp,25,Chiều,0
+19,Cảm ơn,95,Đâu,0
+59,Nói,59,Nói,1
+84,Uống,84,Uống,1
+58,Nhớ,58,Nhớ,1
+41,Hy sinh,41,Hy sinh,1
+80,Tôi,80,Tôi,1
+52,Nghe,52,Nghe,1
+98,Đi,98,Đi,1
+99,Đồng ý,99,Đồng ý,1
+2,Ăn,2,Ăn,1
+88,Xa,88,Xa,1
+67,Rau,67,Rau,1
+68,Rẽ phải,68,Rẽ phải,1
+96,Đầu,96,Đầu,1
+19,Cảm ơn,19,Cảm ơn,1
+19,Cảm ơn,19,Cảm ơn,1
+17,Cám dỗ,17,Cám dỗ,1
+69,Rẽ trái,69,Rẽ trái,1
+21,Chân,21,Chân,1
+92,Xin phép,92,Xin phép,1
+69,Rẽ trái,69,Rẽ trái,1
+79,Thức dậy,79,Thức dậy,1
+9,Bế mạc,9,Bế mạc,1
+42,Kết hôn,42,Kết hôn,1
+55,Nhà,55,Nhà,1
+64,Phía sau,64,Phía sau,1
+47,Lây bệnh,47,Lây bệnh,1
+84,Uống,84,Uống,1
+0,An ủi,35,Giúp,0
+72,Sử dụng,72,Sử dụng,1
+82,Trưa,82,Trưa,1
+30,Cơ thể,21,Chân,0
+4,Ban ngày,4,Ban ngày,1
+58,Nhớ,58,Nhớ,1
+70,San sẻ,70,San sẻ,1
+60,Nói xấu,60,Nói xấu,1
+25,Chiều,25,Chiều,1
+28,Con gấu,28,Con gấu,1
+7,Băn khoăn,7,Băn khoăn,1
+55,Nhà,55,Nhà,1
+21,Chân,21,Chân,1
+76,Thích,76,Thích,1
+72,Sử dụng,72,Sử dụng,1
+32,Dạy dỗ,1,Áp dụng,0
+25,Chiều,25,Chiều,1
+45,Khóc,45,Khóc,1
+0,An ủi,0,An ủi,1
+69,Rẽ trái,69,Rẽ trái,1
+33,Dễ,33,Dễ,1
+91,Xin lỗi,91,Xin lỗi,1
+47,Lây bệnh,47,Lây bệnh,1
+59,Nói,59,Nói,1
+65,Phỏng vấn,65,Phỏng vấn,1
+60,Nói xấu,60,Nói xấu,1
+83,Trường học,83,Trường học,1
+5,Ban đêm,5,Ban đêm,1
+29,Có thể,29,Có thể,1
+87,Virus,87,Virus,1
+60,Nói xấu,60,Nói xấu,1
+69,Rẽ trái,69,Rẽ trái,1
+58,Nhớ,58,Nhớ,1
+27,Chúng ta,98,Đi,0
+19,Cảm ơn,19,Cảm ơn,1
+82,Trưa,82,Trưa,1
+82,Trưa,82,Trưa,1
+64,Phía sau,64,Phía sau,1
+61,Nôn ói,61,Nôn ói,1
+39,Họ,79,Thức dậy,0
+24,Chậm lại,24,Chậm lại,1
+46,Khu cách ly,46,Khu cách ly,1
+94,Xúc động,94,Xúc động,1
+79,Thức dậy,79,Thức dậy,1
+67,Rau,67,Rau,1
+60,Nói xấu,60,Nói xấu,1
+61,Nôn ói,53,Nghỉ ngơi,0
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+21,Chân,21,Chân,1
+79,Thức dậy,79,Thức dậy,1
+70,San sẻ,70,San sẻ,1
+75,Thăm,75,Thăm,1
+2,Ăn,2,Ăn,1
+92,Xin phép,92,Xin phép,1
+7,Băn khoăn,12,Biết,0
+92,Xin phép,92,Xin phép,1
+13,Biếu tặng,13,Biếu tặng,1
+74,Thất lạc,74,Thất lạc,1
+79,Thức dậy,79,Thức dậy,1
+62,Ô tô,90,Xe đạp,0
+18,Cần,35,Giúp,0
+96,Đầu,96,Đầu,1
+20,Chào,96,Đầu,0
+83,Trường học,83,Trường học,1
+97,Đẹp,45,Khóc,0
+49,Mời vào,24,Chậm lại,0
+64,Phía sau,64,Phía sau,1
+50,Mua,64,Phía sau,0
+64,Phía sau,64,Phía sau,1
+23,Chạy,23,Chạy,1
+83,Trường học,83,Trường học,1
+1,Áp dụng,1,Áp dụng,1
+51,Nặng,51,Nặng,1
+15,Cá,15,Cá,1
+60,Nói xấu,60,Nói xấu,1
+6,Bàn tay,83,Trường học,0
+13,Biếu tặng,13,Biếu tặng,1
+8,Bạn thân,8,Bạn thân,1
+98,Đi,98,Đi,1
+41,Hy sinh,41,Hy sinh,1
+3,Ăn mừng,3,Ăn mừng,1
+53,Nghỉ ngơi,95,Đâu,0
+55,Nhà,55,Nhà,1
+63,Phạt,63,Phạt,1
+80,Tôi,80,Tôi,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+98,Đi,98,Đi,1
+38,Hôm nay,38,Hôm nay,1
+7,Băn khoăn,7,Băn khoăn,1
+57,Nhìn,52,Nghe,0
+49,Mời vào,49,Mời vào,1
+31,Cứu,31,Cứu,1
+88,Xa,88,Xa,1
+54,Ngón tay,54,Ngón tay,1
+15,Cá,15,Cá,1
+21,Chân,21,Chân,1
+96,Đầu,96,Đầu,1
+62,Ô tô,62,Ô tô,1
+67,Rau,67,Rau,1
+25,Chiều,25,Chiều,1
+58,Nhớ,58,Nhớ,1
+33,Dễ,83,Trường học,0
+94,Xúc động,94,Xúc động,1
+95,Đâu,95,Đâu,1
+4,Ban ngày,4,Ban ngày,1
+82,Trưa,82,Trưa,1
+15,Cá,15,Cá,1
+96,Đầu,96,Đầu,1
+92,Xin phép,92,Xin phép,1
+24,Chậm lại,24,Chậm lại,1
+60,Nói xấu,60,Nói xấu,1
+32,Dạy dỗ,32,Dạy dỗ,1
+7,Băn khoăn,7,Băn khoăn,1
+47,Lây bệnh,47,Lây bệnh,1
+60,Nói xấu,60,Nói xấu,1
+98,Đi,98,Đi,1
+35,Giúp,35,Giúp,1
+3,Ăn mừng,3,Ăn mừng,1
+78,Thức ăn,99,Đồng ý,0
+34,Ghét,34,Ghét,1
+67,Rau,67,Rau,1
+25,Chiều,25,Chiều,1
+23,Chạy,23,Chạy,1
+49,Mời vào,38,Hôm nay,0
+95,Đâu,95,Đâu,1
+12,Biết,12,Biết,1
+99,Đồng ý,99,Đồng ý,1
+1,Áp dụng,1,Áp dụng,1
+13,Biếu tặng,13,Biếu tặng,1
+55,Nhà,55,Nhà,1
+93,Xuất viện,93,Xuất viện,1
+28,Con gấu,28,Con gấu,1
+77,Thương,95,Đâu,0
+15,Cá,15,Cá,1
+42,Kết hôn,42,Kết hôn,1
+28,Con gấu,28,Con gấu,1
+23,Chạy,23,Chạy,1
+2,Ăn,2,Ăn,1
+39,Họ,39,Họ,1
+23,Chạy,23,Chạy,1
+39,Họ,39,Họ,1
+92,Xin phép,3,Ăn mừng,0
+28,Con gấu,28,Con gấu,1
+25,Chiều,25,Chiều,1
+79,Thức dậy,79,Thức dậy,1
+31,Cứu,31,Cứu,1
+8,Bạn thân,21,Chân,0
+21,Chân,21,Chân,1
+83,Trường học,83,Trường học,1
+36,Hâm mộ,36,Hâm mộ,1
+7,Băn khoăn,7,Băn khoăn,1
+7,Băn khoăn,12,Biết,0
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+25,Chiều,25,Chiều,1
+31,Cứu,31,Cứu,1
+45,Khóc,45,Khóc,1
+13,Biếu tặng,13,Biếu tặng,1
+72,Sử dụng,72,Sử dụng,1
+88,Xa,88,Xa,1
+52,Nghe,52,Nghe,1
+3,Ăn mừng,3,Ăn mừng,1
+11,Bệnh viện,55,Nhà,0
+20,Chào,96,Đầu,0
+13,Biếu tặng,13,Biếu tặng,1
+61,Nôn ói,61,Nôn ói,1
+44,Khẩu trang,44,Khẩu trang,1
+57,Nhìn,57,Nhìn,1
+33,Dễ,31,Cứu,0
+93,Xuất viện,93,Xuất viện,1
+12,Biết,12,Biết,1
+36,Hâm mộ,1,Áp dụng,0
+39,Họ,82,Trưa,0
+61,Nôn ói,61,Nôn ói,1
+57,Nhìn,57,Nhìn,1
+37,Ho,37,Ho,1
+64,Phía sau,64,Phía sau,1
+23,Chạy,23,Chạy,1
+51,Nặng,51,Nặng,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+82,Trưa,82,Trưa,1
+80,Tôi,80,Tôi,1
+14,Bộ y tế,14,Bộ y tế,1
+91,Xin lỗi,91,Xin lỗi,1
+79,Thức dậy,79,Thức dậy,1
+3,Ăn mừng,3,Ăn mừng,1
+95,Đâu,95,Đâu,1
+35,Giúp,35,Giúp,1
+99,Đồng ý,99,Đồng ý,1
+57,Nhìn,83,Trường học,0
+11,Bệnh viện,11,Bệnh viện,1
+94,Xúc động,94,Xúc động,1
+98,Đi,98,Đi,1
+60,Nói xấu,60,Nói xấu,1
+93,Xuất viện,93,Xuất viện,1
+49,Mời vào,49,Mời vào,1
+60,Nói xấu,60,Nói xấu,1
+13,Biếu tặng,13,Biếu tặng,1
+43,Khai báo,43,Khai báo,1
+61,Nôn ói,61,Nôn ói,1
+60,Nói xấu,53,Nghỉ ngơi,0
+65,Phỏng vấn,65,Phỏng vấn,1
+52,Nghe,52,Nghe,1
+33,Dễ,33,Dễ,1
+72,Sử dụng,72,Sử dụng,1
+21,Chân,21,Chân,1
+42,Kết hôn,42,Kết hôn,1
+72,Sử dụng,72,Sử dụng,1
+49,Mời vào,49,Mời vào,1
+55,Nhà,55,Nhà,1
+78,Thức ăn,78,Thức ăn,1
+97,Đẹp,57,Nhìn,0
+53,Nghỉ ngơi,95,Đâu,0
+96,Đầu,96,Đầu,1
+43,Khai báo,43,Khai báo,1
+31,Cứu,31,Cứu,1
+28,Con gấu,28,Con gấu,1
+39,Họ,39,Họ,1
+2,Ăn,2,Ăn,1
+41,Hy sinh,41,Hy sinh,1
+1,Áp dụng,1,Áp dụng,1
+9,Bế mạc,9,Bế mạc,1
+98,Đi,98,Đi,1
+99,Đồng ý,39,Họ,0
+57,Nhìn,57,Nhìn,1
+45,Khóc,45,Khóc,1
+42,Kết hôn,42,Kết hôn,1
+3,Ăn mừng,3,Ăn mừng,1
+33,Dễ,33,Dễ,1
+74,Thất lạc,74,Thất lạc,1
+52,Nghe,52,Nghe,1
+65,Phỏng vấn,65,Phỏng vấn,1
+23,Chạy,23,Chạy,1
+24,Chậm lại,24,Chậm lại,1
+62,Ô tô,62,Ô tô,1
+43,Khai báo,43,Khai báo,1
+65,Phỏng vấn,65,Phỏng vấn,1
+51,Nặng,51,Nặng,1
+24,Chậm lại,24,Chậm lại,1
+47,Lây bệnh,47,Lây bệnh,1
+20,Chào,96,Đầu,0
+99,Đồng ý,99,Đồng ý,1
+25,Chiều,25,Chiều,1
+67,Rau,67,Rau,1
+58,Nhớ,58,Nhớ,1
+17,Cám dỗ,17,Cám dỗ,1
+49,Mời vào,49,Mời vào,1
+11,Bệnh viện,83,Trường học,0
+81,Tối,45,Khóc,0
+21,Chân,21,Chân,1
+15,Cá,15,Cá,1
+11,Bệnh viện,11,Bệnh viện,1
+33,Dễ,33,Dễ,1
+79,Thức dậy,79,Thức dậy,1
+46,Khu cách ly,46,Khu cách ly,1
+14,Bộ y tế,14,Bộ y tế,1
+72,Sử dụng,72,Sử dụng,1
+33,Dễ,33,Dễ,1
+36,Hâm mộ,36,Hâm mộ,1
+45,Khóc,45,Khóc,1
+24,Chậm lại,24,Chậm lại,1
+0,An ủi,36,Hâm mộ,0
+66,Phục hồi,66,Phục hồi,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+82,Trưa,82,Trưa,1
+78,Thức ăn,78,Thức ăn,1
+62,Ô tô,62,Ô tô,1
+36,Hâm mộ,36,Hâm mộ,1
+58,Nhớ,58,Nhớ,1
+42,Kết hôn,42,Kết hôn,1
+26,Cho,26,Cho,1
+41,Hy sinh,41,Hy sinh,1
+32,Dạy dỗ,32,Dạy dỗ,1
+91,Xin lỗi,91,Xin lỗi,1
+35,Giúp,35,Giúp,1
+83,Trường học,83,Trường học,1
+26,Cho,26,Cho,1
+3,Ăn mừng,3,Ăn mừng,1
+43,Khai báo,43,Khai báo,1
+12,Biết,12,Biết,1
+39,Họ,45,Khóc,0
+88,Xa,88,Xa,1
+90,Xe đạp,90,Xe đạp,1
+21,Chân,21,Chân,1
+27,Chúng ta,27,Chúng ta,1
+24,Chậm lại,24,Chậm lại,1
+24,Chậm lại,24,Chậm lại,1
+58,Nhớ,58,Nhớ,1
+78,Thức ăn,78,Thức ăn,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+70,San sẻ,10,Bệnh nhân,0
+23,Chạy,23,Chạy,1
+2,Ăn,2,Ăn,1
+11,Bệnh viện,11,Bệnh viện,1
+12,Biết,12,Biết,1
+69,Rẽ trái,69,Rẽ trái,1
+94,Xúc động,94,Xúc động,1
+55,Nhà,55,Nhà,1
+38,Hôm nay,38,Hôm nay,1
+67,Rau,67,Rau,1
+50,Mua,64,Phía sau,0
+83,Trường học,83,Trường học,1
+23,Chạy,23,Chạy,1
+52,Nghe,59,Nói,0
+33,Dễ,33,Dễ,1
+26,Cho,26,Cho,1
+61,Nôn ói,61,Nôn ói,1
+80,Tôi,80,Tôi,1
+8,Bạn thân,8,Bạn thân,1
+94,Xúc động,94,Xúc động,1
+55,Nhà,55,Nhà,1
+29,Có thể,62,Ô tô,0
+51,Nặng,51,Nặng,1
+52,Nghe,52,Nghe,1
+92,Xin phép,92,Xin phép,1
+98,Đi,98,Đi,1
+43,Khai báo,43,Khai báo,1
+2,Ăn,2,Ăn,1
+70,San sẻ,70,San sẻ,1
+29,Có thể,29,Có thể,1
+91,Xin lỗi,91,Xin lỗi,1
+67,Rau,67,Rau,1
+15,Cá,15,Cá,1
+85,Ủng hộ,76,Thích,0
+36,Hâm mộ,36,Hâm mộ,1
+39,Họ,39,Họ,1
+82,Trưa,82,Trưa,1
+83,Trường học,83,Trường học,1
+31,Cứu,31,Cứu,1
+41,Hy sinh,41,Hy sinh,1
+28,Con gấu,28,Con gấu,1
+93,Xuất viện,93,Xuất viện,1
+36,Hâm mộ,36,Hâm mộ,1
+3,Ăn mừng,19,Cảm ơn,0
+51,Nặng,51,Nặng,1
+7,Băn khoăn,7,Băn khoăn,1
+82,Trưa,82,Trưa,1
+10,Bệnh nhân,75,Thăm,0
+32,Dạy dỗ,32,Dạy dỗ,1
+88,Xa,88,Xa,1
+83,Trường học,83,Trường học,1
+88,Xa,88,Xa,1
+53,Nghỉ ngơi,95,Đâu,0
+78,Thức ăn,78,Thức ăn,1
+55,Nhà,55,Nhà,1
+72,Sử dụng,64,Phía sau,0
+67,Rau,67,Rau,1
+74,Thất lạc,22,Chấp nhận,0
+52,Nghe,59,Nói,0
+65,Phỏng vấn,65,Phỏng vấn,1
+50,Mua,50,Mua,1
+75,Thăm,75,Thăm,1
+55,Nhà,55,Nhà,1
+12,Biết,12,Biết,1
+96,Đầu,96,Đầu,1
+78,Thức ăn,78,Thức ăn,1
+67,Rau,67,Rau,1
+82,Trưa,82,Trưa,1
+64,Phía sau,64,Phía sau,1
+97,Đẹp,57,Nhìn,0
+94,Xúc động,94,Xúc động,1
+52,Nghe,52,Nghe,1
+19,Cảm ơn,19,Cảm ơn,1
+45,Khóc,45,Khóc,1
+26,Cho,26,Cho,1
+1,Áp dụng,1,Áp dụng,1
+23,Chạy,23,Chạy,1
+40,Học sinh,40,Học sinh,1
+31,Cứu,31,Cứu,1
+64,Phía sau,64,Phía sau,1
+45,Khóc,45,Khóc,1
+31,Cứu,31,Cứu,1
+31,Cứu,31,Cứu,1
+63,Phạt,63,Phạt,1
+32,Dạy dỗ,32,Dạy dỗ,1
+49,Mời vào,38,Hôm nay,0
+88,Xa,88,Xa,1
+62,Ô tô,62,Ô tô,1
+15,Cá,15,Cá,1
+26,Cho,26,Cho,1
+62,Ô tô,62,Ô tô,1
+28,Con gấu,28,Con gấu,1
+41,Hy sinh,41,Hy sinh,1
+17,Cám dỗ,17,Cám dỗ,1
+19,Cảm ơn,19,Cảm ơn,1
+32,Dạy dỗ,32,Dạy dỗ,1
+1,Áp dụng,1,Áp dụng,1
+99,Đồng ý,99,Đồng ý,1
+43,Khai báo,43,Khai báo,1
+63,Phạt,36,Hâm mộ,0
+51,Nặng,51,Nặng,1
+57,Nhìn,57,Nhìn,1
+86,Vâng lời,86,Vâng lời,1
+64,Phía sau,64,Phía sau,1
+41,Hy sinh,41,Hy sinh,1
+99,Đồng ý,99,Đồng ý,1
+52,Nghe,52,Nghe,1
+33,Dễ,33,Dễ,1
+60,Nói xấu,60,Nói xấu,1
+43,Khai báo,43,Khai báo,1
+99,Đồng ý,99,Đồng ý,1
+1,Áp dụng,1,Áp dụng,1
+69,Rẽ trái,69,Rẽ trái,1
+81,Tối,81,Tối,1
+25,Chiều,25,Chiều,1
+99,Đồng ý,99,Đồng ý,1
+92,Xin phép,92,Xin phép,1
+72,Sử dụng,78,Thức ăn,0
+26,Cho,26,Cho,1
+12,Biết,12,Biết,1
+64,Phía sau,64,Phía sau,1
+47,Lây bệnh,47,Lây bệnh,1
+52,Nghe,52,Nghe,1
+55,Nhà,55,Nhà,1
+0,An ủi,0,An ủi,1
+47,Lây bệnh,41,Hy sinh,0
+69,Rẽ trái,24,Chậm lại,0
+33,Dễ,83,Trường học,0
+49,Mời vào,49,Mời vào,1
+28,Con gấu,51,Nặng,0
+58,Nhớ,58,Nhớ,1
+58,Nhớ,58,Nhớ,1
+19,Cảm ơn,19,Cảm ơn,1
+52,Nghe,52,Nghe,1
+17,Cám dỗ,17,Cám dỗ,1
+93,Xuất viện,93,Xuất viện,1
+94,Xúc động,94,Xúc động,1
+3,Ăn mừng,3,Ăn mừng,1
+68,Rẽ phải,49,Mời vào,0
+98,Đi,98,Đi,1
+49,Mời vào,49,Mời vào,1
+38,Hôm nay,38,Hôm nay,1
+70,San sẻ,70,San sẻ,1
+76,Thích,76,Thích,1
+63,Phạt,63,Phạt,1
+81,Tối,81,Tối,1
+17,Cám dỗ,17,Cám dỗ,1
+3,Ăn mừng,3,Ăn mừng,1
+51,Nặng,51,Nặng,1
+60,Nói xấu,95,Đâu,0
+15,Cá,15,Cá,1
+64,Phía sau,64,Phía sau,1
+55,Nhà,55,Nhà,1
+34,Ghét,95,Đâu,0
+50,Mua,72,Sử dụng,0
+20,Chào,96,Đầu,0
+43,Khai báo,43,Khai báo,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+79,Thức dậy,79,Thức dậy,1
+13,Biếu tặng,13,Biếu tặng,1
+65,Phỏng vấn,65,Phỏng vấn,1
+88,Xa,88,Xa,1
+1,Áp dụng,1,Áp dụng,1
+38,Hôm nay,38,Hôm nay,1
+50,Mua,50,Mua,1
+51,Nặng,51,Nặng,1
+68,Rẽ phải,68,Rẽ phải,1
+19,Cảm ơn,19,Cảm ơn,1
+65,Phỏng vấn,65,Phỏng vấn,1
+96,Đầu,96,Đầu,1
+57,Nhìn,57,Nhìn,1
+47,Lây bệnh,47,Lây bệnh,1
+93,Xuất viện,93,Xuất viện,1
+12,Biết,12,Biết,1
+1,Áp dụng,1,Áp dụng,1
+99,Đồng ý,99,Đồng ý,1
+73,Tập luyện,58,Nhớ,0
+6,Bàn tay,33,Dễ,0
+50,Mua,50,Mua,1
+31,Cứu,31,Cứu,1
+17,Cám dỗ,17,Cám dỗ,1
+93,Xuất viện,93,Xuất viện,1
+65,Phỏng vấn,65,Phỏng vấn,1
+1,Áp dụng,1,Áp dụng,1
+35,Giúp,34,Ghét,0
+47,Lây bệnh,47,Lây bệnh,1
+24,Chậm lại,24,Chậm lại,1
+93,Xuất viện,93,Xuất viện,1
+31,Cứu,31,Cứu,1
+64,Phía sau,64,Phía sau,1
+45,Khóc,45,Khóc,1
+11,Bệnh viện,11,Bệnh viện,1
+90,Xe đạp,90,Xe đạp,1
+43,Khai báo,43,Khai báo,1
+34,Ghét,34,Ghét,1
+24,Chậm lại,24,Chậm lại,1
+35,Giúp,35,Giúp,1
+83,Trường học,83,Trường học,1
+51,Nặng,51,Nặng,1
+39,Họ,45,Khóc,0
+32,Dạy dỗ,32,Dạy dỗ,1
+83,Trường học,83,Trường học,1
+80,Tôi,78,Thức ăn,0
+79,Thức dậy,79,Thức dậy,1
+12,Biết,12,Biết,1
+59,Nói,59,Nói,1
+36,Hâm mộ,36,Hâm mộ,1
+69,Rẽ trái,69,Rẽ trái,1
+19,Cảm ơn,19,Cảm ơn,1
+77,Thương,77,Thương,1
+36,Hâm mộ,36,Hâm mộ,1
+52,Nghe,59,Nói,0
+64,Phía sau,64,Phía sau,1
+59,Nói,59,Nói,1
+9,Bế mạc,9,Bế mạc,1
+57,Nhìn,57,Nhìn,1
+39,Họ,39,Họ,1
+17,Cám dỗ,17,Cám dỗ,1
+79,Thức dậy,79,Thức dậy,1
+21,Chân,25,Chiều,0
+88,Xa,88,Xa,1
+72,Sử dụng,72,Sử dụng,1
+93,Xuất viện,93,Xuất viện,1
+95,Đâu,95,Đâu,1
+29,Có thể,38,Hôm nay,0
+11,Bệnh viện,11,Bệnh viện,1
+45,Khóc,45,Khóc,1
+20,Chào,96,Đầu,0
+19,Cảm ơn,19,Cảm ơn,1
+62,Ô tô,62,Ô tô,1
+80,Tôi,80,Tôi,1
+25,Chiều,25,Chiều,1
+88,Xa,88,Xa,1
+19,Cảm ơn,19,Cảm ơn,1
+60,Nói xấu,60,Nói xấu,1
+16,Cách ly,16,Cách ly,1
+34,Ghét,95,Đâu,0
+84,Uống,84,Uống,1
+70,San sẻ,70,San sẻ,1
+98,Đi,98,Đi,1
+24,Chậm lại,24,Chậm lại,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+39,Họ,39,Họ,1
+4,Ban ngày,4,Ban ngày,1
+41,Hy sinh,41,Hy sinh,1
+47,Lây bệnh,47,Lây bệnh,1
+95,Đâu,95,Đâu,1
+4,Ban ngày,94,Xúc động,0
+23,Chạy,23,Chạy,1
+75,Thăm,75,Thăm,1
+83,Trường học,83,Trường học,1
+58,Nhớ,58,Nhớ,1
+17,Cám dỗ,17,Cám dỗ,1
+61,Nôn ói,61,Nôn ói,1
+80,Tôi,80,Tôi,1
+81,Tối,81,Tối,1
+12,Biết,95,Đâu,0
+79,Thức dậy,79,Thức dậy,1
+95,Đâu,95,Đâu,1
+67,Rau,67,Rau,1
+67,Rau,67,Rau,1
+32,Dạy dỗ,32,Dạy dỗ,1
+21,Chân,21,Chân,1
+95,Đâu,95,Đâu,1
+25,Chiều,25,Chiều,1
+34,Ghét,34,Ghét,1
+80,Tôi,80,Tôi,1
+15,Cá,15,Cá,1
+70,San sẻ,70,San sẻ,1
+50,Mua,39,Họ,0
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+45,Khóc,59,Nói,0
+17,Cám dỗ,17,Cám dỗ,1
+21,Chân,21,Chân,1
+56,Nhầm,56,Nhầm,1
+1,Áp dụng,1,Áp dụng,1
+11,Bệnh viện,11,Bệnh viện,1
+67,Rau,67,Rau,1
+12,Biết,12,Biết,1
+70,San sẻ,70,San sẻ,1
+94,Xúc động,83,Trường học,0
+63,Phạt,63,Phạt,1
+69,Rẽ trái,83,Trường học,0
+35,Giúp,35,Giúp,1
+75,Thăm,75,Thăm,1
+20,Chào,20,Chào,1
+45,Khóc,45,Khóc,1
+23,Chạy,23,Chạy,1
+13,Biếu tặng,13,Biếu tặng,1
+49,Mời vào,49,Mời vào,1
+84,Uống,84,Uống,1
+35,Giúp,35,Giúp,1
+45,Khóc,45,Khóc,1
+42,Kết hôn,42,Kết hôn,1
+47,Lây bệnh,47,Lây bệnh,1
+88,Xa,88,Xa,1
+28,Con gấu,28,Con gấu,1
+94,Xúc động,94,Xúc động,1
+17,Cám dỗ,17,Cám dỗ,1
+49,Mời vào,49,Mời vào,1
+55,Nhà,55,Nhà,1
+45,Khóc,52,Nghe,0
+55,Nhà,55,Nhà,1
+3,Ăn mừng,3,Ăn mừng,1
+22,Chấp nhận,22,Chấp nhận,1
+15,Cá,88,Xa,0
+55,Nhà,82,Trưa,0
+23,Chạy,23,Chạy,1
+13,Biếu tặng,13,Biếu tặng,1
+67,Rau,67,Rau,1
+92,Xin phép,92,Xin phép,1
+58,Nhớ,58,Nhớ,1
+64,Phía sau,64,Phía sau,1
+57,Nhìn,57,Nhìn,1
+26,Cho,26,Cho,1
+78,Thức ăn,78,Thức ăn,1
+35,Giúp,35,Giúp,1
+1,Áp dụng,1,Áp dụng,1
+25,Chiều,25,Chiều,1
+15,Cá,15,Cá,1
+38,Hôm nay,51,Nặng,0
+82,Trưa,82,Trưa,1
+96,Đầu,96,Đầu,1
+57,Nhìn,79,Thức dậy,0
+63,Phạt,36,Hâm mộ,0
+24,Chậm lại,79,Thức dậy,0
+62,Ô tô,62,Ô tô,1
+36,Hâm mộ,36,Hâm mộ,1
+86,Vâng lời,86,Vâng lời,1
+72,Sử dụng,78,Thức ăn,0
+67,Rau,67,Rau,1
+94,Xúc động,94,Xúc động,1
+69,Rẽ trái,69,Rẽ trái,1
+7,Băn khoăn,7,Băn khoăn,1
+89,Xe máy,90,Xe đạp,0
+24,Chậm lại,67,Rau,0
+80,Tôi,80,Tôi,1
+11,Bệnh viện,11,Bệnh viện,1
+96,Đầu,96,Đầu,1
+26,Cho,26,Cho,1
+17,Cám dỗ,17,Cám dỗ,1
+88,Xa,88,Xa,1
+28,Con gấu,28,Con gấu,1
+12,Biết,12,Biết,1
+94,Xúc động,94,Xúc động,1
+99,Đồng ý,99,Đồng ý,1
+14,Bộ y tế,58,Nhớ,0
+65,Phỏng vấn,65,Phỏng vấn,1
+23,Chạy,23,Chạy,1
+34,Ghét,34,Ghét,1
+72,Sử dụng,72,Sử dụng,1
+0,An ủi,0,An ủi,1
+79,Thức dậy,79,Thức dậy,1
+3,Ăn mừng,3,Ăn mừng,1
+78,Thức ăn,78,Thức ăn,1
+36,Hâm mộ,36,Hâm mộ,1
+2,Ăn,2,Ăn,1
+41,Hy sinh,41,Hy sinh,1
+64,Phía sau,64,Phía sau,1
+74,Thất lạc,74,Thất lạc,1
+84,Uống,84,Uống,1
+88,Xa,88,Xa,1
+23,Chạy,23,Chạy,1
+95,Đâu,95,Đâu,1
+69,Rẽ trái,69,Rẽ trái,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+73,Tập luyện,58,Nhớ,0
+11,Bệnh viện,11,Bệnh viện,1
+69,Rẽ trái,69,Rẽ trái,1
+21,Chân,21,Chân,1
+44,Khẩu trang,44,Khẩu trang,1
+95,Đâu,95,Đâu,1
+81,Tối,81,Tối,1
+78,Thức ăn,78,Thức ăn,1
+79,Thức dậy,79,Thức dậy,1
+96,Đầu,96,Đầu,1
+17,Cám dỗ,17,Cám dỗ,1
+9,Bế mạc,9,Bế mạc,1
+24,Chậm lại,8,Bạn thân,0
+27,Chúng ta,98,Đi,0
+93,Xuất viện,93,Xuất viện,1
+72,Sử dụng,78,Thức ăn,0
+80,Tôi,80,Tôi,1
+69,Rẽ trái,69,Rẽ trái,1
+98,Đi,98,Đi,1
+2,Ăn,80,Tôi,0
+3,Ăn mừng,3,Ăn mừng,1
+52,Nghe,52,Nghe,1
+59,Nói,59,Nói,1
+53,Nghỉ ngơi,53,Nghỉ ngơi,1
+67,Rau,67,Rau,1
+35,Giúp,35,Giúp,1
+13,Biếu tặng,13,Biếu tặng,1
+4,Ban ngày,82,Trưa,0
+26,Cho,26,Cho,1
+25,Chiều,25,Chiều,1
+7,Băn khoăn,7,Băn khoăn,1
+63,Phạt,63,Phạt,1
+98,Đi,98,Đi,1
+57,Nhìn,57,Nhìn,1
+17,Cám dỗ,17,Cám dỗ,1
+45,Khóc,45,Khóc,1
+20,Chào,79,Thức dậy,0
+83,Trường học,83,Trường học,1
+61,Nôn ói,61,Nôn ói,1
+12,Biết,12,Biết,1
+17,Cám dỗ,17,Cám dỗ,1
+57,Nhìn,57,Nhìn,1
+1,Áp dụng,1,Áp dụng,1
+0,An ủi,0,An ủi,1
+83,Trường học,83,Trường học,1
+79,Thức dậy,79,Thức dậy,1
+43,Khai báo,43,Khai báo,1
+1,Áp dụng,1,Áp dụng,1
