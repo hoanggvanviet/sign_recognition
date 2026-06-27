@@ -6,8 +6,7 @@ Nhận diện ngôn ngữ ký hiệu từ video sử dụng kiến trúc **LS-Vi
 
 ## Kiến trúc mô hình
 
-![LS-ViT Architecture](results/confusion_matrix.png)
-
+![LS-ViT Architecture](results/architecture.png)
 LS-ViT gồm 3 thành phần chính:
 
 **1. Spatial Feature Extractor**
